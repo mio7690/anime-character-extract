@@ -1,4 +1,4 @@
-# anime_character_etraction
+# anime_character_extraction
 
 Fewshot Character Extraction From Anime Video With MultiModal Method
 
