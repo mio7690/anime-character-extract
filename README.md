@@ -15,12 +15,12 @@ Besides the above multimodal prompt, I also add a `anime face detector` module f
 
 ## Results
 
-### _Tokiwa Midori_ in ** Tamako Market and Tamako Love Story **
+### _Tokiwa Midori_ in **Tamako Market and Tamako Love Story**
 
 ![demo](./img//demo1.jpg)
 
 ![result](./img/img1.jpg)
-### _Chtholly Nota Seniorious_ in ** What Do You Do at the End of the World? Are You Busy? Will You Save Us? **
+### _Chtholly Nota Seniorious_ in **What Do You Do at the End of the World? Are You Busy? Will You Save Us?**
 
 ![demo](./img/demo3.png)
 
